@@ -1,0 +1,10 @@
+<abc>
+    <database>
+        <provides>
+            <table>ABC_AUTH_COMPANY</table>
+        </provides>
+        <scripts>
+            <script>lib/ddl/0100_create_tables.sql</script>
+        </scripts>
+    </database>
+</abc>
