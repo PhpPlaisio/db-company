@@ -1,10 +1,9 @@
 {
-  "name": "setbased/abc-company",
-  "description": "ABC-Framework: Company",
+  "name": "plaisio/db-company",
+  "description": "PhpPlaisio: Database - Company",
   "keywords": [
-    "ABC-Framework",
+    "PhpPlaisio",
     "Company"
   ],
-  "type": "library",
   "license": "MIT"
 }
