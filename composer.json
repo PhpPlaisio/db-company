@@ -5,5 +5,8 @@
     "PhpPlaisio",
     "Company"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3"
+  }
 }
