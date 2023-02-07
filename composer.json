@@ -7,6 +7,6 @@
   ],
   "license": "MIT",
   "require": {
-    "php": ">=8.1"
+    "plaisio/console-stratum": "^1.0"
   }
 }
